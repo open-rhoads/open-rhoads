@@ -1,5 +1,5 @@
 ## Hey, I'm Mikaela 👋
-⚒️ I'm working on updating my personal portfolio and re-designing the Home and Library sections of the Mesa College website.<br />
+⚒️ I'm working on updating my personal portfolio and re-designing the Home and Library sections of the San Diego Mesa College website.<br />
 📚 I'm currently learning more about data structure efficiency.<br />
 🤝 I would love to collaborate on an eCommerce project.<br />
 🧐 I'm looking for help on getting started with freelance.<br />
