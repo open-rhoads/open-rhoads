@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hey, I'm Mikaela 👋
+⚒️ I'm working on updating my personal portfolio and re-designing the Home and Library sections of the Mesa College website.
+📚 I'm currently learning more about data structure efficiency.
+🤝 I would love to collaborate on an eCommerce project.
+🧐 I'm looking for help on getting started with freelance.
+📨 Find me on LinkedIn and follow me here! I love making new friends 🙂
+💥 Fun Fact: In my very first job at a sandwich shop, I briefly danced in a full suit pickle costume on the street to advertise for them.
 <!--
 **open-rhoads/open-rhoads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
