@@ -4,7 +4,7 @@
 🤝 I would love to collaborate on an eCommerce project.<br />
 🧐 I'm looking for help on getting started with freelance.<br />
 📨 Find me on LinkedIn and follow me here! I love making new friends 🙂<br />
-💥 Fun Fact: In my very first job at a sandwich shop, I briefly danced in a full suit pickle costume on the street to advertise for them.<img src="https://github.com/user-attachments/assets/36f12b42-dfad-4cdb-8dc9-7c6f56c5dccf" width="10px" height="15px" />
+💥 Fun Fact: In my very first job at a sandwich shop, I briefly danced in a full suit pickle costume on the street to advertise for them.<img src="https://github.com/user-attachments/assets/36f12b42-dfad-4cdb-8dc9-7c6f56c5dccf" width="15px" height="20px" />
 <!--
 **open-rhoads/open-rhoads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
