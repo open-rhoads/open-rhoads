@@ -5,8 +5,6 @@
 🧐 I'm looking for help on getting started with freelance.<br />
 📨 Find me on LinkedIn and follow me here! I love making new friends 🙂<br />
 💥 Fun Fact: In my very first job at a sandwich shop, I briefly danced in a full suit pickle costume on the street to advertise for them.<br />
-![PiclelDancingGIF](https://github.com/user-attachments/assets/a578b116-a0ce-4531-867b-e6fc2aae8d7a)
-<br />
 <!--
 **open-rhoads/open-rhoads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
