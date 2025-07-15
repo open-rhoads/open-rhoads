@@ -1,6 +1,6 @@
 ## Hey, I'm Mikaela 👋
 ⚒️ I'm working on updating my portfolio and re-designing the Home and Library sections of the San Diego Mesa College website.<br />
-📚 I'm currently learning more about data structure efficiency.<br />
+📚 I'm currently learning more about backend JavaScript libraries.<br />
 🤝 I would love to collaborate on an eCommerce project.<br />
 🧐 I'm looking for help on getting started with freelance.<br />
 📨 Find me on LinkedIn and follow me here! I love making new friends 🙂<br />
