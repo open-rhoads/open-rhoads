@@ -1,8 +1,7 @@
 ## Hey, I'm Mikaela 👋
 ⚒️ I'm working on updating my portfolio and re-designing the Home and Library sections of the San Diego Mesa College website.<br />
-📚 I'm currently learning more about backend JavaScript libraries.<br />
-🤝 I would love to collaborate on an eCommerce project.<br />
-🧐 I'm looking for help on getting started with freelance.<br />
+📚 I'm currently learning more about SQLite and reviewing React.<br />
+🤝 I would love to collaborate on fixing and modernizing websites.<br />
 📨 Find me on LinkedIn and follow me here! I love making new friends 🙂<br />
 💥 Fun Fact: In my very first job at a sandwich shop, I briefly danced in a full suit pickle costume on the street to advertise for them.<img src="https://github.com/user-attachments/assets/36f12b42-dfad-4cdb-8dc9-7c6f56c5dccf" width="18px" height="20px" />
 <!--
